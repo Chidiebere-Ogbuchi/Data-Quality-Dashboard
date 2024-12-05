@@ -1,5 +1,6 @@
 # Data-Quality-Dashboard
 
 1. Create a dashboard reporting information about missing data
+![Description](Dashboarding_Data Interpretation_Chidiebere Ogbuchi.png)
 
-2. Data interpretation
+3. Data interpretation
