@@ -6,5 +6,5 @@
 
 3. Data interpretation
 
-   
-![Dashboarding_Data Interpretation_Chidiebere Ogbuchi.png](Dashboarding_Data Interpretation_Chidiebere Ogbuchi.png)
+
+![Dashboarding_Data Interpretation_Chidiebere Ogbuchi.png]()
